@@ -12,4 +12,4 @@
 
 
 ## 🏆 GitHub Trophies 🏆
-[![](https://github-profile-trophy.vercel.app/?username=roofa&theme=darkhub&no-frame=true&no-bg=false&margin-w=2&column=-1)]
+[![](https://github-profile-trophy.vercel.app/?username=RoofaE&theme=darkhub&no-frame=true&no-bg=false&margin-w=2&column=-1)](https://github-profile-trophy.vercel.app/?username=RoofaE&theme=darkhub&no-frame=true&no-bg=false&margin-w=2&column=-1)
