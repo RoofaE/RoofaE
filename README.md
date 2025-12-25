@@ -9,7 +9,3 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-## 🏆 GitHub Trophies 🏆
-[![](https://github-profile-trophy.vercel.app/?username=RoofaE&theme=darkhub&no-frame=true&no-bg=false&margin-w=2&column=-1)](https://github-profile-trophy.vercel.app/?username=RoofaE&theme=darkhub&no-frame=true&no-bg=false&margin-w=2&column=-1)
