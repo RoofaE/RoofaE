@@ -37,7 +37,7 @@ I’m Roofa, focused on designing reliable platforms and infrastructure, working
 <p align="center">
   <!-- row 2 -->
   <img src="https://img.shields.io/badge/Firestore%20(NoSQL)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FF8C00?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/REST%2FJSON-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
